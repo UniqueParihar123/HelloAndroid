@@ -1,3 +1,3 @@
 # HelloAndroid
 
-This application is a part of Android-Basic-Course and it's card(Only layout) of Udacity.
+Hello Android is an Mobile application which is a Business Card of Udacity and it a part of exercise in Google-Udacity Programme.
